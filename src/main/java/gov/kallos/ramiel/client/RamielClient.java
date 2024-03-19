@@ -49,7 +49,7 @@ public class RamielClient implements ClientModInitializer {
 
     public static final String STANDINGS_REPO = "https://pastebin.com/raw/pAyuwiNV";
 
-    public static final String ALLOWED_SERVER = "pvp.citadelpvp.net";
+    public static final String ALLOWED_SERVER = "2b2t.org";
 
     private static final String PREFIX = Formatting.DARK_GRAY + "[" + Formatting.GOLD + "Ramiel" + Formatting.DARK_GRAY + "] ";
 
